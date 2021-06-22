@@ -5,10 +5,10 @@
 		"factoryName": {
 			"value": "Covidreport11amADF"
 		},
-		"ls_BLOBStorage_connectionString": {
+		"ls_ADLS_gen2_accountKey": {
 			"value": ""
 		},
-		"ls_ADLS_gen2_accountKey": {
+		"ls_BLOBStorage_connectionString": {
 			"value": ""
 		},
 		"ls_ADLS_gen2_properties_typeProperties_url": {
