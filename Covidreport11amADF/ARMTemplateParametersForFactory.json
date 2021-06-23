@@ -4,9 +4,6 @@
 	"parameters": {
 		"factoryName": {
 			"value": "Covidreport11amADF"
-		},
-		"ls_BLOBStorage_connectionString": {
-			"value": ""
 		}
 	}
 }
